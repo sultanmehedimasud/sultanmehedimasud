@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sultanmehedimasud1
 - 👀 I’m interested in anime and heavy metal music
-- 🌱 I’m currently learning Python, SQL, Flask
+- I have learned Python, SQL, OOP, DSA and HTML-CSS
+- 🌱 I’m currently learning Flask, Numpy , Pandas and Javascript
 
 <!---
 sultanmehedimasud1/sultanmehedimasud1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
