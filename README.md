@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sultanmehedimasud1
+- 👋 Hi, I’m @sultanmehedimasud
 - 👀 I’m interested in anime and heavy metal music
 - I have learned Python, SQL, OOP, DSA and HTML-CSS
 - 🌱 I’m currently learning Flask, Numpy , Pandas and Javascript
