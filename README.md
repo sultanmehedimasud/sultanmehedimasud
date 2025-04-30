@@ -1,7 +1,11 @@
 👋 Hi, I’m @sultanmehedimasud!
+
 🎶 Enthusiast of heavy metal music and an avid anime lover.
+
 💻 Tech-savvy with expertise in Python, PHP, SQL, OOP, DSA, OpenGL, and HTML-CSS.
+
 🚀 Experienced in frameworks such as Flask and Laravel, and continuously pushing boundaries in development.
+
 🌱 Currently diving into Numpy, Pandas, and expanding my horizons with Javascript.
 
 
