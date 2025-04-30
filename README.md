@@ -35,7 +35,7 @@
  </a>
 
  <a href="https://x.com/smehedimasud">
- <img border="0" alt="Masud X handle" src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp"/>
+ <img height="28rem" border="0" alt="Masud X handle" src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp"/>
  </a>
 
  <a href="mailto:sultanmehedimasud@gmail.com">
