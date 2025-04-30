@@ -19,6 +19,79 @@
 
 🌱 Currently diving into Numpy, Pandas, and expanding my horizons with Javascript.
 
+ 
+<br>
+
+<p align="center"><!-----Social Accounts------>
+
+<p align="center">
+ <a href="">
+ <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+ </a>
+
+ <a href="https://www.linkedin.com/in/sultan-mehedi-masud/">
+ 
+ <img border="0" alt="Masud's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ </a>
+
+ <a href="https://x.com/smehedimasud">
+ <img border="0" alt="Masud X handle" src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp"/>
+ </a>
+
+ <a href="mailto:sultanmehedimasud@gmail.com">
+ <img border="0" alt="Masud's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
+</p>
+
+<br>
+
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+### 📋 Programming languages
+
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+  </a>
+</p>
+
+<br>
+### 💾 Databases
+
+<p align="left"> 
+
+  <a href="https://www.mysql.com/" target="_blank"> 
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+  </a>   
+   <a href="https://www.mongodb.com/" target="_blank"> 
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+  </a>  
+  
+   <a href="https://www.sqlite.org/" target="_blank"> 
+   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+  </a>   
+  
+</p>
 
 <br> 
 
