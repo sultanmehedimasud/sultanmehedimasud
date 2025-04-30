@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @sultanmehedimasud
-- 👀 I’m interested in anime and heavy metal music
-- I have learned Python, SQL, OOP, DSA, and HTML-CSS
-- Framework that I have worked on till now is Flask
-- 🌱 I’m currently learning Numpy , Pandas and Javascript
+👋 Hi, I’m @sultanmehedimasud!
+🎶 Enthusiast of heavy metal music and an avid anime lover.
+💻 Tech-savvy with expertise in Python, PHP, SQL, OOP, DSA, OpenGL, and HTML-CSS.
+🚀 Experienced in frameworks such as Flask and Laravel, and continuously pushing boundaries in development.
+🌱 Currently diving into Numpy, Pandas, and expanding my horizons with Javascript.
+
+
+
 
 <!---
 sultanmehedimasud/sultanmehedimasud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
