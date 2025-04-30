@@ -98,12 +98,21 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-
+<!---
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanmehedimasud&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanmehedimasud&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
+--->
 <br>
+
+<p align="center">
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sultanmehedimasud&langs_count=8&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=F7B32B&text_color=ffffff&bg_color=0d1117"" alt="top langs" />
+ 
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sultanmehedimasud&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10&title_color=F7B32B&text_color=ffffff&bg_color=0d1117"" alt="sultanmehedimasud" />
+</p>
+
 
 <!---
 sultanmehedimasud/sultanmehedimasud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
