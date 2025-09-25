@@ -5,7 +5,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Junior+Developer;web+&+mobible+developer;Data+Analyst;Business+Automation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Junior+Developer;web+and+mobible+developer;Data+Analyst;Business+Automation+Engineer)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://images2.imgbox.com/5b/2b/6uF1cm9i_o.jpeg" />
